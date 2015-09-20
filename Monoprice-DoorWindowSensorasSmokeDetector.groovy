@@ -10,7 +10,7 @@ metadata {
 	// Automatically generated. Make future change here.
 	definition (name: "Monoprice Door/Window Sensor as Smoke Detector", namespace: "ctrost", author: "ctrost") {
 		capability "Contact Sensor"
-        capability "Smoke Detector"
+        	capability "Smoke Detector"
 		capability "Sensor"
 		capability "Battery"
 		//0 0 0x2001 0 0 0 7 0x71 0x85 0x80 0x72 0x30 0x86 0x84
